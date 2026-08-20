@@ -213,6 +213,9 @@ THANK YOU FOR PLAYING EPIC NUMBER, BYE BYE 👋
 ```
 
 ---
+## 🖼️ Game Output
+
+![Epic Number Game Output](screenshots/game-output.png)
 
 ## ▶️ How to Run This Project
 
@@ -233,7 +236,7 @@ cd epic-number-game
 Using GCC:
 
 ```bash
-gcc NUMBER_GUESSING_GAME.c -o epic-number
+gcc src/NUMBER_GUESSING_GAME.c -o epic-number
 ```
 
 ### 4️⃣ Run the Game
